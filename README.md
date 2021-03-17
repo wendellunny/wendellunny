@@ -6,5 +6,6 @@
 	- Mobile
 
 #### Habilidades
-![JavaScript](/img/js-icon.png);
-![PHP](/img/icon-php.png);
+![JavaScript](/img/js-icon.png)&nbsp;
+![PHP](/img/icon-php.png)&nbsp;
+
