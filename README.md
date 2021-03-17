@@ -6,4 +6,4 @@
 	- Mobile
 
 #### Habilidades
-![JavaScript](/img/js.png);
+![JavaScript](/img/js-icon.png);
