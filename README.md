@@ -8,6 +8,6 @@
 #### Habilidades
 ![JavaScript](/img/js-icon.png)&nbsp;
 ![PHP](/img/php.png)&nbsp;
-![React.js e React Native](/img/react.png)&nbsp;
+![React.js e React Native](/img/react-icon.png)&nbsp;
 ![Laravel](/img/laravel.png)&nbsp;
 
