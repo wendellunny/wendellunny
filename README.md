@@ -8,4 +8,5 @@
 #### Habilidades
 ![JavaScript](/img/js-icon.png)&nbsp;
 ![PHP](/img/php.png)&nbsp;
+![Laravel](/img/laravel.png)&nbsp;
 
