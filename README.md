@@ -7,4 +7,4 @@
 
 #### Habilidades
 ![JavaScript](/img/js-icon.png);
-![PHP](/img/php-icon.png);
+![PHP](/img/icon-php.png);
