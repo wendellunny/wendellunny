@@ -1,6 +1,6 @@
 ### Olá, Bem-Vindo ao meu GitHub <br> Eu sou Wendel Luiz 👾🤟
 
--Desenvolvedor Back-End na &nbsp ![Digitaliza Tecnologia](https://digitaliza.com.br/assets/medias/imgs/logos/logo-nav.png);
+-Desenvolvedor Back-End na ![Digitaliza Tecnologia](https://digitaliza.com.br/assets/medias/imgs/logos/logo-nav.png)
 
 - Desenvolvedor em aprendizado 🧑🏻‍💻
 	- Front-End 
