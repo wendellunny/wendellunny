@@ -1,7 +1,11 @@
-### Olá, Bem-Vindo ao meu GitHub <br> Eu sou Wendel Luiz 👾🤟
+## Olá, Bem-Vindo ao meu GitHub <br> Eu sou Wendel Luiz 👾🤟
 
-- 💼 Desenvolvedor Back-End na empresa <i>Digitaliza Tecnologia</i>
-
+- 💼 Atualmente trabalhando como Desenvolvedor Back-End na empresa <i>Digitaliza Tecnologia</i>
+- 🎓 Estudando Sistemas de Informação (8º Período)
+- 🌐 Desenvolvedor Web FullStack
+- 📱 Desenvolvedor Mobile
+- 🖥🖱 Desenvolvedor Desktop
+<div>
   <a href="https://github.com/wendellunny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellunny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellunny&layout=compact&langs_count=7&theme=dracula"/>
