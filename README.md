@@ -1,6 +1,6 @@
 ## Olá, Bem-Vindo ao meu GitHub <br> Eu sou Wendel Luiz 👾🤟
 
-- 💼 Atualmente trabalhando como Desenvolvedor Back-End Pleno na empresa <i>Webjump!</i>
+- 💼 Atualmente trabalhando como Desenvolvedor Back-End Pleno na empresa <i>WebJump!</i>
 - 🎓 Bacharel em Sistemas de Informação
 - 🌐 Desenvolvedor Web FullStack
 - 📱 Desenvolvedor Mobile
