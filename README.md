@@ -2,7 +2,7 @@
 
 - 💼 Atualmente trabalhando como Desenvolvedor Back-End Pleno na empresa <i>WebJump!</i>
 - 🎓 Bacharel em Sistemas de Informação
-- 🌐 Desenvolvedor Web FullStack
+- 🌐 Desenvolvedor Back-End
 - 📱 Desenvolvedor Mobile
 - 🖥🖱 Desenvolvedor Desktop
 <div>
