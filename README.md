@@ -3,8 +3,6 @@
 - 💼 Atualmente trabalhando como Desenvolvedor Back-End Pleno na empresa <i>WebJump!</i>
 - 🎓 Bacharel em Sistemas de Informação
 - 🌐 Desenvolvedor Back-End
-- 📱 Desenvolvedor Mobile
-- 🖥🖱 Desenvolvedor Desktop
 <div>
   <a href="https://github.com/wendellunny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellunny&layout=compact&langs_count=7&theme=dracula"/>
